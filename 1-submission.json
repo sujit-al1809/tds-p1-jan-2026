@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal, high-contrast photograph of a massive flock of stylized, angular dark birds against a stark, foggy white sky. Every single individual bird in the image is sharply angled in a steep nosedive, plunging vertically downwards. However, the entire collective shape of the massive flock sweeps dramatically and unmistakably upwards towards the top right corner of the frame. An uncanny optical illusion where the local downward movement of every individual element completely contradicts the global upward trajectory of the whole group. Cinematic lighting, photorealistic, no text, no numbers, no charts, abstract but recognizable.",
+  "model": "Imagen (Google Gemini image generation)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Every individual bird is plunging sharply downward, yet the entire collective flock sweeps majestically upward. This embodies Simpson’s Paradox: local trends within individual members directly contradict the overarching global trend of the combined population, creating an inescapable visual tension."
+}
